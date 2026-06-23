@@ -3,6 +3,8 @@
 /doc/
 /.elixir_ls/
 /.fetch
+/mix.lock
+/*.tar
 erl_crash.dump
 
 .env
