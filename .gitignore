@@ -1,0 +1,16 @@
+/_build/
+/deps/
+/doc/
+/.elixir_ls/
+/.fetch
+erl_crash.dump
+
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.log
+.DS_Store
+
+PREPUBLISH_CHECKLIST.md
