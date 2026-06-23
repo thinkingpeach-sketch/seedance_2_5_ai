@@ -15,7 +15,8 @@ defmodule Seedance25Ai do
     %{
       name: "Seedance 2.5",
       version: @version,
-      description: "Seedance 2.5 AI video generator for text-to-video and image-to-video workflows"
+      description:
+        "Seedance 2.5 AI video generator for text-to-video and image-to-video workflows"
     }
   end
 
